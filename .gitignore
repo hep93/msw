@@ -1,7 +1,6 @@
 __*
 .DS_*
 node_modules
-/lib
 /native/**/*
 /node/**/*
 !/node/package.json
