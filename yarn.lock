@@ -1413,7 +1413,7 @@
 
 "@mswjs/interceptors@git://github.com/hep93/interceptors#hep":
   version "0.12.6"
-  resolved "git://github.com/hep93/interceptors#55578ae6c36647a0803036d948648f0cce06826e"
+  resolved "git://github.com/hep93/interceptors#b3f1f267bdada2d1ce9313197c2a45179bb47a24"
   dependencies:
     "@open-draft/until" "^1.0.3"
     "@xmldom/xmldom" "^0.7.2"
